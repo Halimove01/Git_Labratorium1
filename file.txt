@@ -1,0 +1,3 @@
+* 2962574 (HEAD -> master, new_branch) Create new text file from separat branch
+* 3b547b2 (origin/master) add .gitignore and README + content
+* ea9beaf  push the project without .gitignore and readme files
